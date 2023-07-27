@@ -19,3 +19,5 @@ In this project, I focused on the following concepts:
 4. **Displaying Alerts:** I used SwiftUI's native alert functionality to show a customized message based on the selected name.
 
 ## Demo
+
+<video src="https://github.com/eliottoblinger/swift-ui-name-list/assets/73584972/0894f1d0-0bc2-4d45-a8fe-13e11597ec10"/>
